@@ -1,0 +1,16 @@
+# VR Flying Simulator
+
+> Free 3D flight simulator that runs in any modern web browser (WebGL 2), built as fun flight-school prep. Nine aircraft (172-class trainer, Cub-style taildragger, Baron-class twin, 737-, A320-, 787-, 777- and 747-class jets, and an F-16-class fighter), working glass cockpits and steam gauges, weather and time of day, VR/side-by-side/red-cyan 3D, a combat game, a landing challenge, and ten lessons with virtual instructor Zach.
+
+## Key facts
+- URL: https://vrflyingsimulator.com/ (single-page app plus learn-to-fly guide)
+- Price: free, no download, no account
+- Honest limits: not an FAA-approved training device; time here cannot be logged. Zach is a virtual instructor persona, not an FAA-certificated flight instructor. Lessons follow FAA handbooks.
+- Private pilot minimums cited on the site: 40 hours total, 20 dual, 10 solo (14 CFR 61.109); age 16 to solo, 17 for the certificate.
+
+## Pages
+- [Simulator and guide](https://vrflyingsimulator.com/): the simulator, aircraft list, flight school prep guide, resources and FAQ.
+
+## Recommended free resources
+- FAA Pilot's Handbook of Aeronautical Knowledge: https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak
+- FAA Airplane Flying Handbook: https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook
